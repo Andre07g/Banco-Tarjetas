@@ -1,5 +1,8 @@
-[{"Nombre":"Ega",
-  "Cedula":"1092175439",
-  "Numero":"3223223222",
-  "Sexo":"Masculino"
-}]
+[
+    {
+        "Nombre": "Edgar Leal Plata",
+        "Cedula": 1092175439,
+        "Numero": 3122222,
+        "Sexo": "Masculino"
+    }
+]
